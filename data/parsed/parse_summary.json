@@ -1,0 +1,9 @@
+{
+  "reports": 28,
+  "companies": 14,
+  "pages": 5196,
+  "chunks": 13320,
+  "tables": 8124,
+  "table_scope": "all PDF pages; full text plus detected table cell grids",
+  "chunk_policy": "complete page or complete detected table, with original cell grid"
+}

@@ -1,0 +1,61 @@
+﻿question_id,mode,method,initial_covered,read_covered,obligations,read_blocks
+q01,vector,TF-IDF 向量,2,2,2,8
+q01,bm25,BM25 原句,2,2,2,8
+q01,keyword_bm25,规则关键词 BM25,2,2,2,8
+q01,query_rewrite_vector,规则精炼 TF-IDF,2,2,2,8
+q01,hybrid,TF-IDF + BM25,2,2,2,8
+q01,evidence,按公司与义务补证,2,2,2,15
+q02,vector,TF-IDF 向量,0,0,1,8
+q02,bm25,BM25 原句,0,0,1,8
+q02,keyword_bm25,规则关键词 BM25,0,0,1,8
+q02,query_rewrite_vector,规则精炼 TF-IDF,0,0,1,8
+q02,hybrid,TF-IDF + BM25,0,0,1,8
+q02,evidence,按公司与义务补证,0,1,1,16
+q03,vector,TF-IDF 向量,1,1,1,8
+q03,bm25,BM25 原句,1,1,1,8
+q03,keyword_bm25,规则关键词 BM25,1,1,1,8
+q03,query_rewrite_vector,规则精炼 TF-IDF,1,1,1,8
+q03,hybrid,TF-IDF + BM25,1,1,1,8
+q03,evidence,按公司与义务补证,1,1,1,15
+q04,vector,TF-IDF 向量,2,2,2,8
+q04,bm25,BM25 原句,2,2,2,8
+q04,keyword_bm25,规则关键词 BM25,2,2,2,8
+q04,query_rewrite_vector,规则精炼 TF-IDF,2,2,2,8
+q04,hybrid,TF-IDF + BM25,2,2,2,8
+q04,evidence,按公司与义务补证,2,2,2,22
+q05,vector,TF-IDF 向量,0,0,3,8
+q05,bm25,BM25 原句,1,1,3,8
+q05,keyword_bm25,规则关键词 BM25,1,1,3,8
+q05,query_rewrite_vector,规则精炼 TF-IDF,0,0,3,8
+q05,hybrid,TF-IDF + BM25,0,0,3,8
+q05,evidence,按公司与义务补证,0,3,3,35
+q06,vector,TF-IDF 向量,0,0,6,8
+q06,bm25,BM25 原句,0,0,6,8
+q06,keyword_bm25,规则关键词 BM25,0,0,6,8
+q06,query_rewrite_vector,规则精炼 TF-IDF,0,0,6,8
+q06,hybrid,TF-IDF + BM25,0,0,6,8
+q06,evidence,按公司与义务补证,0,6,6,28
+q07,vector,TF-IDF 向量,1,1,2,8
+q07,bm25,BM25 原句,1,1,2,8
+q07,keyword_bm25,规则关键词 BM25,2,2,2,8
+q07,query_rewrite_vector,规则精炼 TF-IDF,2,2,2,8
+q07,hybrid,TF-IDF + BM25,1,1,2,8
+q07,evidence,按公司与义务补证,1,2,2,22
+q08,vector,TF-IDF 向量,1,1,3,8
+q08,bm25,BM25 原句,1,1,3,8
+q08,keyword_bm25,规则关键词 BM25,2,2,3,8
+q08,query_rewrite_vector,规则精炼 TF-IDF,1,1,3,8
+q08,hybrid,TF-IDF + BM25,1,1,3,8
+q08,evidence,按公司与义务补证,1,3,3,28
+q09,vector,TF-IDF 向量,2,2,5,8
+q09,bm25,BM25 原句,2,2,5,8
+q09,keyword_bm25,规则关键词 BM25,2,2,5,8
+q09,query_rewrite_vector,规则精炼 TF-IDF,2,2,5,8
+q09,hybrid,TF-IDF + BM25,2,2,5,8
+q09,evidence,按公司与义务补证,2,5,5,49
+q10,vector,TF-IDF 向量,1,1,56,8
+q10,bm25,BM25 原句,3,3,56,8
+q10,keyword_bm25,规则关键词 BM25,3,3,56,8
+q10,query_rewrite_vector,规则精炼 TF-IDF,1,1,56,8
+q10,hybrid,TF-IDF + BM25,2,2,56,8
+q10,evidence,按公司与义务补证,2,55,56,441

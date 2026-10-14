@@ -1,0 +1,6 @@
+PyMuPDF==1.28.2
+jieba==0.42.1
+Pillow==12.3.0
+requests==2.34.2
+playwright==1.63.0
+tzdata==2026.4

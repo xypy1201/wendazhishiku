@@ -1,0 +1,140 @@
+[
+  {
+    "mode": "vector",
+    "method": "TF-IDF 向量",
+    "answer_total": 9,
+    "answer_max": 30,
+    "fully_correct": 1,
+    "initial_hits": 10,
+    "read_hits": 10,
+    "obligations": 81,
+    "average_read_blocks": 8,
+    "question_scores": {
+      "q01": 0,
+      "q02": 0,
+      "q03": 1,
+      "q04": 3,
+      "q05": 1,
+      "q06": 0,
+      "q07": 1,
+      "q08": 1,
+      "q09": 1,
+      "q10": 1
+    }
+  },
+  {
+    "mode": "bm25",
+    "method": "BM25 原句",
+    "answer_total": 14,
+    "answer_max": 30,
+    "fully_correct": 2,
+    "initial_hits": 13,
+    "read_hits": 13,
+    "obligations": 81,
+    "average_read_blocks": 8,
+    "question_scores": {
+      "q01": 3,
+      "q02": 0,
+      "q03": 1,
+      "q04": 3,
+      "q05": 2,
+      "q06": 0,
+      "q07": 1,
+      "q08": 2,
+      "q09": 1,
+      "q10": 1
+    }
+  },
+  {
+    "mode": "keyword_bm25",
+    "method": "规则关键词 BM25",
+    "answer_total": 16,
+    "answer_max": 30,
+    "fully_correct": 3,
+    "initial_hits": 15,
+    "read_hits": 15,
+    "obligations": 81,
+    "average_read_blocks": 8,
+    "question_scores": {
+      "q01": 3,
+      "q02": 0,
+      "q03": 1,
+      "q04": 3,
+      "q05": 2,
+      "q06": 0,
+      "q07": 3,
+      "q08": 2,
+      "q09": 1,
+      "q10": 1
+    }
+  },
+  {
+    "mode": "query_rewrite_vector",
+    "method": "规则精炼 TF-IDF",
+    "answer_total": 11,
+    "answer_max": 30,
+    "fully_correct": 2,
+    "initial_hits": 11,
+    "read_hits": 11,
+    "obligations": 81,
+    "average_read_blocks": 8,
+    "question_scores": {
+      "q01": 0,
+      "q02": 0,
+      "q03": 1,
+      "q04": 3,
+      "q05": 1,
+      "q06": 0,
+      "q07": 3,
+      "q08": 1,
+      "q09": 1,
+      "q10": 1
+    }
+  },
+  {
+    "mode": "hybrid",
+    "method": "TF-IDF + BM25",
+    "answer_total": 10,
+    "answer_max": 30,
+    "fully_correct": 1,
+    "initial_hits": 11,
+    "read_hits": 11,
+    "obligations": 81,
+    "average_read_blocks": 8,
+    "question_scores": {
+      "q01": 0,
+      "q02": 0,
+      "q03": 1,
+      "q04": 3,
+      "q05": 2,
+      "q06": 0,
+      "q07": 1,
+      "q08": 1,
+      "q09": 1,
+      "q10": 1
+    }
+  },
+  {
+    "mode": "evidence",
+    "method": "按公司与义务补证",
+    "answer_total": 28,
+    "answer_max": 30,
+    "fully_correct": 8,
+    "initial_hits": 11,
+    "read_hits": 80,
+    "obligations": 81,
+    "average_read_blocks": 67.1,
+    "question_scores": {
+      "q01": 3,
+      "q02": 3,
+      "q03": 3,
+      "q04": 3,
+      "q05": 2,
+      "q06": 3,
+      "q07": 3,
+      "q08": 3,
+      "q09": 3,
+      "q10": 2
+    }
+  }
+]

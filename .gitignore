@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+.venv/
+.env
+data/index/*.jsonl
+data/parsed/*.jsonl
+history/
+node_modules/

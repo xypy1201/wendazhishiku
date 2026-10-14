@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "name": "docs.jsonl",
+      "bytes": 52771211,
+      "sha256": "fda8a6f5162f4fb3593171d8b8fd60157ae17f3e8bea549c08178339c971b2a6",
+      "archive": "docs.jsonl.gz",
+      "archive_bytes": 6871882,
+      "archive_sha256": "965d7f5d9b57cad5a62af2bbee67a9c5838901719b7d1c3f422ebdf7d8cb875b"
+    },
+    {
+      "name": "vectors.jsonl",
+      "bytes": 55040416,
+      "sha256": "f500e44409620b5ffba450dc0e03472c78cf1dc7bf8457bbeb5108472d24cdd3",
+      "archive": "vectors.jsonl.gz",
+      "archive_bytes": 20864574,
+      "archive_sha256": "ff3c53d06fb8b76712f391c17ef31d21144259eaf3261df34528218f8e945cbe"
+    },
+    {
+      "name": "terms.jsonl",
+      "bytes": 14956565,
+      "sha256": "f49cb4e0f52ec6324948f73b3b9e24d887c85efc5abe784215e765150029be26",
+      "archive": "terms.jsonl.gz",
+      "archive_bytes": 3854073,
+      "archive_sha256": "8c6f1e072ec1d44ff99e6fc22291b824173a055359c0763e85565e37401b50d1"
+    }
+  ]
+}

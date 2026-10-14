@@ -1,0 +1,5 @@
+{
+  "documents": 13320,
+  "avg_doc_len": 252.928978978979,
+  "algorithm": "TF-IDF cosine + BM25"
+}
